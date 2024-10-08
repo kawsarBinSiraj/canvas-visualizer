@@ -21,7 +21,7 @@ const quicksand = Quicksand({ subsets: ["latin"], weight: ["300", "400"] });
  */
 export const metadata = {
     metadataBase: new URL("http://localhost:1300"),
-    title: "Canvas Visualizer | Create by Kawsar Bin Siraj",
+    title: "Canvas Visualizer | Created by Kawsar Bin Siraj",
     description: "Html5 canvas visualization, use it for free!",
     icons: {
         icon: [
@@ -38,7 +38,7 @@ export const metadata = {
         ],
     },
     openGraph: {
-        title: "Canvas Visualizer | Create by Kawsar Bin Siraj",
+        title: "Canvas Visualizer | Created by Kawsar Bin Siraj",
         description: "Html5 canvas visualization, use it for free!",
         siteName: "Canvas Visualizer",
         images: [
